@@ -1,0 +1,1107 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"opposi",
+				"oppositeFlag\tstatement"
+			],
+			[
+				"oppo",
+				"opposite\tstatement"
+			],
+			[
+				"o",
+				"oppositeFlag\tstatement"
+			],
+			[
+				"opp",
+				"oppositeFlag\tstatement"
+			],
+			[
+				"op",
+				"oppositeCheckBox\tstatement"
+			],
+			[
+				"slip",
+				"slipSpinBox\tstatement"
+			],
+			[
+				"mu",
+				"multiple\tstatement"
+			],
+			[
+				"init",
+				"initComboBox\tfunction"
+			],
+			[
+				"updatem",
+				"updateMainComboBox\tfunction"
+			],
+			[
+				"qry",
+				"qryAgentPositionDetail\tfunction"
+			],
+			[
+				"count",
+				"count2\tstatement"
+			],
+			[
+				"ta",
+				"tableWidget\tstatement"
+			],
+			[
+				"QTableWidget",
+				"QTableWidgetItem\tclass"
+			],
+			[
+				"pus",
+				"pushButton2\tstatement"
+			],
+			[
+				"qr",
+				"qryAgentPositionDetail\tfunction"
+			],
+			[
+				"addL",
+				"addListWidget"
+			],
+			[
+				"agenta",
+				"agentAccountTable"
+			],
+			[
+				"mainAcc",
+				"mainAccountTable"
+			],
+			[
+				"f",
+				"flag"
+			],
+			[
+				"agentacc",
+				"agentAccountComboBox\tstatement"
+			],
+			[
+				"close",
+				"closeEvent\tfunction"
+			],
+			[
+				"maina",
+				"mainAccountTable"
+			],
+			[
+				"c",
+				"company"
+			],
+			[
+				"d",
+				"dict_"
+			],
+			[
+				"ev",
+				"event\tparam"
+			],
+			[
+				"mainA",
+				"mainAccountTable"
+			],
+			[
+				"agent",
+				"agentCTPList\tstatement"
+			],
+			[
+				"co",
+				"connect\tfunction"
+			],
+			[
+				"conn",
+				"connect"
+			],
+			[
+				"type",
+				"type_\tparam"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"re",
+				"reject\tmodule"
+			],
+			[
+				"pas",
+				"passwordLineEdit\tstatement"
+			],
+			[
+				"us",
+				"userID"
+			],
+			[
+				"Ed",
+				"editItem\tstatement"
+			],
+			[
+				"mainc",
+				"MainCtp\tclass"
+			],
+			[
+				"s",
+				"strike\tstatement"
+			],
+			[
+				"chl",
+				"childs"
+			],
+			[
+				"chil",
+				"childList"
+			],
+			[
+				"agentc",
+				"agentCTPList"
+			],
+			[
+				"accou",
+				"accountIndex\tstatement"
+			],
+			[
+				"ini",
+				"initComboBox\tfunction"
+			],
+			[
+				"updateM",
+				"updateMainComboBox\tfunction"
+			],
+			[
+				"mainctp",
+				"mainCTPList\tstatement"
+			],
+			[
+				"main",
+				"mainTdAddressLabel\tstatement"
+			],
+			[
+				"getCTPF",
+				"getCTPFromBrokerID\tfunction"
+			],
+			[
+				"getc",
+				"getCTP\tfunction"
+			],
+			[
+				"upd",
+				"updateComboBox\tfunction"
+			],
+			[
+				"updatec",
+				"updateComboBox\tfunction"
+			],
+			[
+				"u",
+				"updateUi\tfunction"
+			],
+			[
+				"agentA",
+				"agentAccountComboBox\tstatement"
+			],
+			[
+				"mainacc",
+				"mainAccountComboBox\tstatement"
+			],
+			[
+				"j",
+				"join\tfunction"
+			],
+			[
+				"relev",
+				"relevanceAction\tstatement"
+			],
+			[
+				"star",
+				"startAction\tstatement"
+			],
+			[
+				"parent",
+				"parentItem\tstatement"
+			],
+			[
+				"par",
+				"parent"
+			],
+			[
+				"pare",
+				"parentItem"
+			],
+			[
+				"No",
+				"None\tinstance"
+			],
+			[
+				"paren",
+				"parentItem\tstatement"
+			],
+			[
+				"cu",
+				"currentItem\tstatement"
+			],
+			[
+				"ph",
+				"phAccount\tclass"
+			],
+			[
+				"account",
+				"accountTreeWidget\tstatement"
+			],
+			[
+				"update",
+				"updateCTP\tfunction"
+			],
+			[
+				"upda",
+				"updateCTP\tfunction"
+			],
+			[
+				"age",
+				"agentCTPList\tstatement"
+			],
+			[
+				"ch",
+				"childs"
+			],
+			[
+				"agen",
+				"agentAccount\tstatement"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"relevancea",
+				"relevanceAgentComboBox\tstatement"
+			],
+			[
+				"en",
+				"enumerate\tclass"
+			],
+			[
+				"bro",
+				"brokerID"
+			],
+			[
+				"get",
+				"getAccounts\tfunction"
+			],
+			[
+				"root",
+				"rootMain\tstatement"
+			],
+			[
+				"geta",
+				"getAgentCTP"
+			],
+			[
+				"event",
+				"eventEngine\tparam"
+			],
+			[
+				"set",
+				"setupCTP\tfunction"
+			],
+			[
+				"addm",
+				"addMainAccount\tfunction"
+			],
+			[
+				"mda",
+				"mdaddress\tstatement"
+			],
+			[
+				"tda",
+				"tdaddress\tstatement"
+			],
+			[
+				"save",
+				"saveAction\tstatement"
+			],
+			[
+				"crea",
+				"createAction\tfunction"
+			],
+			[
+				"eve",
+				"eventPush\tstatement"
+			],
+			[
+				"Ev",
+				"EventPush\tclass"
+			],
+			[
+				"ty",
+				"type_\tparam"
+			],
+			[
+				"lo",
+				"loginStatus\tstatement"
+			],
+			[
+				"date",
+				"datetime\tclass"
+			],
+			[
+				"file",
+				"filename\tstatement"
+			],
+			[
+				"chec",
+				"accountCheckBox\tstatement"
+			],
+			[
+				"m",
+				"mainFlag\tstatement"
+			],
+			[
+				"ne",
+				"newDialog\tstatement"
+			],
+			[
+				"new",
+				"newAccount\tstatement"
+			],
+			[
+				"br",
+				"brokerID"
+			],
+			[
+				"user",
+				"userIDLineEdit\tstatement"
+			],
+			[
+				"broker",
+				"brokerDict\tstatement"
+			],
+			[
+				"releva",
+				"relevanceDialog\tmodule"
+			],
+			[
+				"Re",
+				"RelevanceDialog\tclass"
+			],
+			[
+				"comb",
+				"brokerNameComboBox\tstatement"
+			],
+			[
+				"bor",
+				"brokerID\tstatement"
+			],
+			[
+				"brok",
+				"brokerID\tstatement"
+			],
+			[
+				"ope",
+				"operatorComboBox\tstatement"
+			],
+			[
+				"setup",
+				"setupUi\tfunction"
+			],
+			[
+				"bork",
+				"brokerDict\tmodule"
+			],
+			[
+				"na",
+				"nameDict\tstatement"
+			],
+			[
+				"temp",
+				"tempPath\tstatement"
+			],
+			[
+				"QTree",
+				"QTreeWidgetItem\tclass"
+			],
+			[
+				"status",
+				"statusLabelTel\tstatement"
+			],
+			[
+				"stat",
+				"statusLabel2\tstatement"
+			],
+			[
+				"setWin",
+				"setWindowIcon\tmodule"
+			],
+			[
+				"start",
+				"startFlag\tstatement"
+			],
+			[
+				"stop",
+				"stopAction\tstatement"
+			],
+			[
+				"sto",
+				"stopAction\tstatement"
+			],
+			[
+				"ada",
+				"addActions\tfunction"
+			],
+			[
+				"add",
+				"addActions\tfunction"
+			],
+			[
+				"cr",
+				"createAction\tfunction"
+			],
+			[
+				"tri",
+				"triggered\tmodule"
+			],
+			[
+				"setT",
+				"setToolTip\tmodule"
+			],
+			[
+				"cl",
+				"close\tfunction"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "MyCtpApi.py",
+			"settings":
+			{
+				"buffer_size": 23331,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "editDialog.py",
+			"settings":
+			{
+				"buffer_size": 1149,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "editDialog.py"
+			}
+		},
+		{
+			"file": "newAccountDialog.py",
+			"settings":
+			{
+				"buffer_size": 3238,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "uitest.py",
+			"settings":
+			{
+				"buffer_size": 19766,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "phCTP.py",
+			"settings":
+			{
+				"buffer_size": 14938,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "relevanceDialog.py",
+			"settings":
+			{
+				"buffer_size": 1568,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 220.0,
+		"history":
+		[
+			"print(\"haha\")",
+			"print \"haha\"",
+			"sublime.version()"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/vnpyStudy/main"
+	],
+	"file_history":
+	[
+		"/F/vnpyStudy/follow/follow.py",
+		"/F/vnpyStudy/main/ui_mainfollow.py",
+		"/F/vnpyStudy/main/broker.py",
+		"/F/vnpyStudy/main/ui_newAccountDialog.py",
+		"/F/vnpyStudy/main/newAccountDialog.py",
+		"/F/vnpyStudy/main/relevanceDialog.py",
+		"/F/vnpyStudy/main/phFunction.py",
+		"/F/vnpyStudy/main/resources.qrc",
+		"/F/vnpyStudy/ttt.py",
+		"/F/vnpyStudy/ui_table.py",
+		"/F/vnpyStudy/main/Main.py",
+		"/F/vnpyStudy/main/tt.py",
+		"/F/vnpyStudy/main/newAccountDialog.pyc",
+		"/F/vnpyStudy/main/broker.ph",
+		"/F/vnpy/vnpy/trader/vtObject.py",
+		"/F/vnpy/vnpy/trader/gateway/ctpGateway/ctpGateway.py",
+		"/F/vnpy/vnpy/trader/vtGateway.py",
+		"/F/vnpyStudy/main/tt.ui",
+		"/F/vnpyStudy/follow/MyCtpApi.py",
+		"/F/vnpyStudy/follow/MyCtpTdApi.py",
+		"/F/vnpy/vnpy/api/ctp/vnctpmd/vnctpmd/vnctpmd.h",
+		"/F/vnpy/vnpy/api/ctp/py3/vnctpmd/vnctpmd/vnctpmd.h",
+		"/C/Anaconda2/lib/site-packages/qdarkstyle/__init__.py",
+		"/F/vnpy/vnpy/api/ctp/ctpapi/ThostFtdcUserApiStruct.h",
+		"/F/vnpy/vnpy/api/ctp/py3/pyscript/ctp_md_function.cpp",
+		"/F/vnpy/vnpy/api/ctp/py3/vnctpmd/vnctpmd/vnctpmd.cpp",
+		"/F/vnpy/vnpy/api/ctp/ctpapi/ThostFtdcUserApiDataType.h",
+		"/F/vnpy/vnpy/api/ctp/__init__.py",
+		"/F/vnpy/examples/VnTrader/temp/ContractData.vt",
+		"/F/vnpy/vnpy/trader/vtConstant.py",
+		"/F/vnpy/vnpy/trader/language/__init__.py",
+		"/F/vnpy/vnpy/event/__init__.py",
+		"/F/vnpy/vnpy/event/eventEngine.py",
+		"/F/vnpy/vnpy/event/eventType.py",
+		"/F/vnpy/examples/VnTrader/run.py",
+		"/F/test.txt",
+		"/F/test.db",
+		"/F/vnpyStudy/shelveDict",
+		"/F/vnpy/vnpy/trader/VT_setting.json",
+		"/F/vnpy/vnpy/trader/vtEvent.py",
+		"/F/vnpy/vnpy/trader/uiQt.py",
+		"/F/vnpy/vnpy/trader/uiMainWindow.py",
+		"/F/vnpy/vnpy/trader/uiBasicWidget.py",
+		"/F/vnpy/vnpy/trader/app/ctaStrategy/ctaBacktesting.py",
+		"/F/myproject/test.py",
+		"/C/Users/xs/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/xs/AppData/Roaming/Sublime Text 3/Packages/Anaconda/README.md",
+		"/F/myproject/1.py",
+		"/F/myproject/tt.py",
+		"/C/Users/xs/Desktop/aa.py",
+		"/C/Users/xs/AppData/Roaming/Sublime Text 3/Packages/User/Python2.sublime-build",
+		"/C/data/log/mongod.log.2017-08-17T05-09-03",
+		"/C/data/db/WiredTigerLAS.wt",
+		"/F/data/db/mongod.lock",
+		"/F/data/log/mongod.log",
+		"/F/data/mongod2.cfg",
+		"/F/data/mongod.lock",
+		"/F/data/mongod.cfg",
+		"/C/Program Files/MongoDB/Server/3.4/mongod2.cfg",
+		"/C/Program Files/MongoDB/Server/3.4/mongod.cfg"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"ttt.py",
+			"MyCtpTdApi.py"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"strikePrice",
+			"target",
+			"    ",
+			"\t",
+			"    ",
+			"i",
+			"data",
+			"QtGui",
+			"data",
+			"k",
+			"mainShowCtp",
+			"DDDmainShowCtp",
+			"mainAccountTable",
+			"print",
+			"company",
+			"userID",
+			"i",
+			"mainAccountComboBox",
+			"relevanceAction",
+			"saveAction",
+			"print",
+			"accountID",
+			"newAgentCtp",
+			"agentAccount",
+			"childAccount",
+			"mainAccount",
+			"def",
+			"\n\t\t\t",
+			"agentAccount",
+			"root",
+			"mainAccount",
+			"setupCTP",
+			"accountMain",
+			"mainAccountList",
+			"网通",
+			"联通",
+			"电信",
+			"联通",
+			"电信",
+			"AgentAccountComboBox",
+			"instrument",
+			"close",
+			"    ",
+			"task_queue",
+			"OnFrontConnected",
+			"CThostFtdcTraderApi",
+			"onfrontdisconnected",
+			"getCon",
+			"qryEnabled",
+			"gatewayQry",
+			"gatewayDic",
+			"ctpGateway",
+			"self.reqUserLogin",
+			"self.reqID",
+			"c",
+			"r.+",
+			"pass\n",
+			".+",
+			"he(.+)",
+			"he.+",
+			".+",
+			"[ra]+",
+			"pass",
+			" \t",
+			"print",
+			"a",
+			"pass",
+			"i",
+			"\tprint i\t",
+			"i",
+			"\t",
+			"i",
+			"print",
+			"i",
+			"rang",
+			"i",
+			"o",
+			"\"\n",
+			"):\n",
+			"i",
+			"\n",
+			"print \"hello\"",
+			"\n",
+			"\t",
+			"print i"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\t"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "MyCtpApi.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23331,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								173,
+								173
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "editDialog.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1149,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								933,
+								933
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"auto_name": "editDialog.py",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 66.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "newAccountDialog.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3238,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								663,
+								663
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 132.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "uitest.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19766,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14855,
+								14855
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 11181.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "phCTP.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14938,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10035,
+								10035
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5916.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "relevanceDialog.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1568,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1262,
+								1262
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 246.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.anaconda_documentation":
+	{
+		"height": 142.0
+	},
+	"output.exec":
+	{
+		"height": 198.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Python2.sublime-build",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"F:\\myproject\\test.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}

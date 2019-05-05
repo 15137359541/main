@@ -1,0 +1,16 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+<file alias="add.png">images/add.png</file>
+<file alias="delete.png">images/delete.png</file>
+<file alias="modify.png">images/modify.png</file>
+<file alias="relevance.png">images/relevance.png</file>
+
+<file alias="start.png">images/start.png</file>
+<file alias="stop.png">images/stop.png</file>
+<file alias="logo.png">images/logo.png</file>
+<file alias="save.png">images/save.png</file>
+
+<file>help/index.html</file>
+
+</qresource>
+</RCC>
